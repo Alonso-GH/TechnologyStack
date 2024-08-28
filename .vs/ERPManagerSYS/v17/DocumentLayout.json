@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|g:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\technology stack\\erpmanagersys\\dal\\customservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\customservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|g:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\technology stack\\erpmanagersys\\dal\\helper\\importexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\helper\\importexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\dal\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|g:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\technology stack\\erpmanagersys\\impottexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|solutionrelative:impottexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\dal\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|g:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\technology stack\\erpmanagersys\\frmstaffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|solutionrelative:frmstaffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\dal\\educationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\educationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\dal\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\dal\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\dal\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\frmstaffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|g:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\technology stack\\erpmanagersys\\frmstaffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|solutionrelative:frmstaffmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\modifystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|solutionrelative:modifystaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|g:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\technology stack\\erpmanagersys\\fomaddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|solutionrelative:fomaddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\fomaddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B4EF0E5-9EED-4393-922C-DC2D2855E186}|ERPManagerSYS.csproj|solutionrelative:fomaddstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|g:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\technology stack\\erpmanagersys\\dal\\helper\\oledbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\helper\\oledbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\dal\\helper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0601D3F-38D2-4D89-9494-4DDDE8D18A21}|DAL\\DAL.csproj|solutionrelative:dal\\helper\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,129 +61,112 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\PostService.cs",
-              "RelativeDocumentMoniker": "DAL\\PostService.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\PostService.cs",
-              "RelativeToolTip": "DAL\\PostService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAawB8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T09:02:43.751Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EducationService.cs",
-              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\EducationService.cs",
-              "RelativeDocumentMoniker": "DAL\\EducationService.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\EducationService.cs",
-              "RelativeToolTip": "DAL\\EducationService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAawB8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T09:02:39.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "DAL\\DepartmentService.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\DepartmentService.cs",
-              "RelativeToolTip": "DAL\\DepartmentService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAawCAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T09:02:33.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomService.cs",
-              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\CustomService.cs",
-              "RelativeDocumentMoniker": "DAL\\CustomService.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\CustomService.cs",
-              "RelativeToolTip": "DAL\\CustomService.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAD4v4IAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T02:18:16.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminService.cs",
-              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\AdminService.cs",
-              "RelativeDocumentMoniker": "DAL\\AdminService.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\AdminService.cs",
-              "RelativeToolTip": "DAL\\AdminService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAawBYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T02:17:19.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "FrmStaffManager.cs",
               "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\FrmStaffManager.cs",
               "RelativeDocumentMoniker": "FrmStaffManager.cs",
               "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\FrmStaffManager.cs",
               "RelativeToolTip": "FrmStaffManager.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwC0AAAAeAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwD0AAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T01:46:39.93Z"
+              "WhenOpened": "2024-08-28T00:43:13.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ModifyStaff.cs",
-              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\ModifyStaff.cs",
-              "RelativeDocumentMoniker": "ModifyStaff.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\ModifyStaff.cs",
-              "RelativeToolTip": "ModifyStaff.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAxwEoAAAAlAAAA",
+              "DocumentIndex": 2,
+              "Title": "FrmStaffManager.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\FrmStaffManager.cs",
+              "RelativeDocumentMoniker": "FrmStaffManager.cs",
+              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\FrmStaffManager.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FrmStaffManager.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T01:42:52.217Z"
+              "WhenOpened": "2024-08-28T00:33:08.462Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImportExcel.cs",
+              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\Helper\\ImportExcel.cs",
+              "RelativeDocumentMoniker": "DAL\\Helper\\ImportExcel.cs",
+              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\Helper\\ImportExcel.cs",
+              "RelativeToolTip": "DAL\\Helper\\ImportExcel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:12:43.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImpottExcel.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\ImpottExcel.cs",
+              "RelativeDocumentMoniker": "ImpottExcel.cs",
+              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\ImpottExcel.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "ImpottExcel.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T15:05:36.41Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OleDbHelper.cs",
+              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\Helper\\OleDbHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Helper\\OleDbHelper.cs",
+              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\Helper\\OleDbHelper.cs",
+              "RelativeToolTip": "DAL\\Helper\\OleDbHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:47:13.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "SQLHelper.cs",
-              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\SQLHelper.cs",
-              "RelativeDocumentMoniker": "DAL\\SQLHelper.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\SQLHelper.cs",
-              "RelativeToolTip": "DAL\\SQLHelper.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBgAAAAJAAAA",
+              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\Helper\\SQLHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Helper\\SQLHelper.cs",
+              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\Helper\\SQLHelper.cs",
+              "RelativeToolTip": "DAL\\Helper\\SQLHelper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T14:11:38.446Z"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0996543b-c232-4363-aaac-ed2b98f20ec8",
+        "Display": 0,
+        "X": 354,
+        "Y": 252,
+        "Width": 1529,
+        "Height": 1025,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StaffService.cs",
-              "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\StaffService.cs",
-              "RelativeDocumentMoniker": "DAL\\StaffService.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\DAL\\StaffService.cs",
-              "RelativeToolTip": "DAL\\StaffService.cs",
-              "ViewState": "AQIAAAgBAAAAAAAAAAAawBEBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T09:09:17.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FomAddStaff.cs",
+              "DocumentIndex": 4,
+              "Title": "FomAddStaff.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\FomAddStaff.cs",
               "RelativeDocumentMoniker": "FomAddStaff.cs",
-              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\FomAddStaff.cs",
-              "RelativeToolTip": "FomAddStaff.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAxwCYAAABRAAAA",
+              "ToolTip": "G:\\\u7A0B\u5E8F\u4EE3\u7801\u5305\\\u5B66\u4E60\u7528\u4EE3\u7801\u5305\\Technology Stack\\ERPManagerSYS\\FomAddStaff.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FomAddStaff.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T05:56:55.749Z"
+              "WhenOpened": "2024-08-28T00:32:37.035Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             }
           ]
         }

@@ -52,3 +52,4 @@ G:\程序代码包\学习用代码包\Technology Stack\ERPManagerSYS\obj\Debug\E
 G:\程序代码包\学习用代码包\Technology Stack\ERPManagerSYS\obj\Debug\ERPManag.36DA1D05.Up2Date
 G:\程序代码包\学习用代码包\Technology Stack\ERPManagerSYS\obj\Debug\ERPManagerSYS.exe
 G:\程序代码包\学习用代码包\Technology Stack\ERPManagerSYS\obj\Debug\ERPManagerSYS.pdb
+G:\程序代码包\学习用代码包\Technology Stack\ERPManagerSYS\obj\Debug\ERPManagerSYS.ImpottExcel.resources

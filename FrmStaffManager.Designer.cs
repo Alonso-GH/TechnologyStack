@@ -41,6 +41,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtJobNum = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
+            this.contextMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.修改ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.删除ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.详细信息ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dgvStaffList = new System.Windows.Forms.DataGridView();
             this.JobNum = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.StaffName = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -51,13 +55,11 @@
             this.Department = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Post = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Education = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.contextMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.修改ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.删除ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.详细信息ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.IdentityNum = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.StaffAddress = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvStaffList)).BeginInit();
             this.contextMenuStrip.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvStaffList)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -185,6 +187,36 @@
             this.label8.TabIndex = 22;
             this.label8.Text = "工号:";
             // 
+            // contextMenuStrip
+            // 
+            this.contextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.修改ToolStripMenuItem,
+            this.删除ToolStripMenuItem,
+            this.详细信息ToolStripMenuItem});
+            this.contextMenuStrip.Name = "contextMenuStrip";
+            this.contextMenuStrip.Size = new System.Drawing.Size(125, 70);
+            // 
+            // 修改ToolStripMenuItem
+            // 
+            this.修改ToolStripMenuItem.Name = "修改ToolStripMenuItem";
+            this.修改ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.修改ToolStripMenuItem.Text = "修改";
+            this.修改ToolStripMenuItem.Click += new System.EventHandler(this.修改ToolStripMenuItem_Click);
+            // 
+            // 删除ToolStripMenuItem
+            // 
+            this.删除ToolStripMenuItem.Name = "删除ToolStripMenuItem";
+            this.删除ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.删除ToolStripMenuItem.Text = "删除";
+            this.删除ToolStripMenuItem.Click += new System.EventHandler(this.删除ToolStripMenuItem_Click);
+            // 
+            // 详细信息ToolStripMenuItem
+            // 
+            this.详细信息ToolStripMenuItem.Name = "详细信息ToolStripMenuItem";
+            this.详细信息ToolStripMenuItem.Size = new System.Drawing.Size(124, 22);
+            this.详细信息ToolStripMenuItem.Text = "详细信息";
+            this.详细信息ToolStripMenuItem.Click += new System.EventHandler(this.详细信息ToolStripMenuItem_Click);
+            // 
             // dgvStaffList
             // 
             this.dgvStaffList.AllowUserToAddRows = false;
@@ -200,14 +232,15 @@
             this.Phone,
             this.Department,
             this.Post,
-            this.Education});
+            this.Education,
+            this.IdentityNum,
+            this.StaffAddress});
             this.dgvStaffList.Location = new System.Drawing.Point(12, 100);
             this.dgvStaffList.Name = "dgvStaffList";
             this.dgvStaffList.ReadOnly = true;
             this.dgvStaffList.RowTemplate.Height = 23;
             this.dgvStaffList.Size = new System.Drawing.Size(1023, 585);
-            this.dgvStaffList.TabIndex = 1;
-            this.dgvStaffList.CellMouseDown += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvStaffList_CellMouseDown);
+            this.dgvStaffList.TabIndex = 3;
             // 
             // JobNum
             // 
@@ -215,6 +248,7 @@
             this.JobNum.HeaderText = "工号";
             this.JobNum.Name = "JobNum";
             this.JobNum.ReadOnly = true;
+            this.JobNum.Width = 70;
             // 
             // StaffName
             // 
@@ -229,6 +263,7 @@
             this.Grender.HeaderText = "性别";
             this.Grender.Name = "Grender";
             this.Grender.ReadOnly = true;
+            this.Grender.Width = 60;
             // 
             // Birthday
             // 
@@ -243,6 +278,7 @@
             this.Age.HeaderText = "年龄";
             this.Age.Name = "Age";
             this.Age.ReadOnly = true;
+            this.Age.Width = 60;
             // 
             // Phone
             // 
@@ -261,9 +297,10 @@
             // Post
             // 
             this.Post.DataPropertyName = "Post";
-            this.Post.HeaderText = "专业";
+            this.Post.HeaderText = "职位";
             this.Post.Name = "Post";
             this.Post.ReadOnly = true;
+            this.Post.Width = 60;
             // 
             // Education
             // 
@@ -271,36 +308,20 @@
             this.Education.HeaderText = "学历";
             this.Education.Name = "Education";
             this.Education.ReadOnly = true;
+            this.Education.Width = 60;
             // 
-            // contextMenuStrip
+            // IdentityNum
             // 
-            this.contextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.修改ToolStripMenuItem,
-            this.删除ToolStripMenuItem,
-            this.详细信息ToolStripMenuItem});
-            this.contextMenuStrip.Name = "contextMenuStrip";
-            this.contextMenuStrip.Size = new System.Drawing.Size(181, 92);
+            this.IdentityNum.HeaderText = "身份证";
+            this.IdentityNum.Name = "IdentityNum";
+            this.IdentityNum.ReadOnly = true;
             // 
-            // 修改ToolStripMenuItem
+            // StaffAddress
             // 
-            this.修改ToolStripMenuItem.Name = "修改ToolStripMenuItem";
-            this.修改ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.修改ToolStripMenuItem.Text = "修改";
-            this.修改ToolStripMenuItem.Click += new System.EventHandler(this.修改ToolStripMenuItem_Click);
-            // 
-            // 删除ToolStripMenuItem
-            // 
-            this.删除ToolStripMenuItem.Name = "删除ToolStripMenuItem";
-            this.删除ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.删除ToolStripMenuItem.Text = "删除";
-            this.删除ToolStripMenuItem.Click += new System.EventHandler(this.删除ToolStripMenuItem_Click);
-            // 
-            // 详细信息ToolStripMenuItem
-            // 
-            this.详细信息ToolStripMenuItem.Name = "详细信息ToolStripMenuItem";
-            this.详细信息ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.详细信息ToolStripMenuItem.Text = "详细信息";
-            this.详细信息ToolStripMenuItem.Click += new System.EventHandler(this.详细信息ToolStripMenuItem_Click);
+            this.StaffAddress.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.StaffAddress.HeaderText = "地址";
+            this.StaffAddress.Name = "StaffAddress";
+            this.StaffAddress.ReadOnly = true;
             // 
             // FrmStaffManager
             // 
@@ -314,8 +335,8 @@
             this.Text = "员工管理";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvStaffList)).EndInit();
             this.contextMenuStrip.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvStaffList)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -334,11 +355,11 @@
         private System.Windows.Forms.ComboBox cmbDepartment;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button btnSelect;
-        private System.Windows.Forms.DataGridView dgvStaffList;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip;
         private System.Windows.Forms.ToolStripMenuItem 修改ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 删除ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 详细信息ToolStripMenuItem;
+        private System.Windows.Forms.DataGridView dgvStaffList;
         private System.Windows.Forms.DataGridViewTextBoxColumn JobNum;
         private System.Windows.Forms.DataGridViewTextBoxColumn StaffName;
         private System.Windows.Forms.DataGridViewTextBoxColumn Grender;
@@ -348,5 +369,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Department;
         private System.Windows.Forms.DataGridViewTextBoxColumn Post;
         private System.Windows.Forms.DataGridViewTextBoxColumn Education;
+        private System.Windows.Forms.DataGridViewTextBoxColumn IdentityNum;
+        private System.Windows.Forms.DataGridViewTextBoxColumn StaffAddress;
     }
 }
